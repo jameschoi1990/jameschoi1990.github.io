@@ -225,7 +225,7 @@ header {
 }
 
 .navbar-dark .navbar-brand {
-    color: #ff7601 !important;
+    color: hsl(250, 100%, 60%) !important;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: var(--nav-link-color) !important;
@@ -496,7 +496,7 @@ header {
 /* jumbotron */
 .jumbotron {
     background-color: var(--main-background-color) !important;
-    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-image: url('https://carleton.ca/financialservices/wp-content/uploads/fs-banner.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;

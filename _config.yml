@@ -1,9 +1,9 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Lose Money With Me
+subtitle: Losing Money Is Better With Friends
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  This blog is meant for entertainment purposes only and should not be taken as financial advice.
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+url: "https://jameschoi1990.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 urls:
@@ -19,12 +19,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
+author: James Choi
+author_bio: Hi, my name is James.
+author_email: "jamesmkchoi@gmail.com"
+author_location: Seoul, Korea
 author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: Hi, Jane! I love you <3
 
 # Experiences
 author_work_experiences:
