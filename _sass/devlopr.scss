@@ -173,12 +173,12 @@ blockquote {
 
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #212529;
+    background: #f69801;
   }
 
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #333;
+    background: #eeae47;
   }
 
 h1, h2, h3, h4, h5, h6 {
@@ -225,7 +225,7 @@ header {
 }
 
 .navbar-dark .navbar-brand {
-    color: hsl(250, 100%, 60%) !important;
+    color: #ff7601 !important;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: var(--nav-link-color) !important;
@@ -496,7 +496,7 @@ header {
 /* jumbotron */
 .jumbotron {
     background-color: var(--main-background-color) !important;
-    background-image: url('https://carleton.ca/financialservices/wp-content/uploads/fs-banner.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-image: url('https://www.itl.cat/pngfile/big/10-104233_orange-abstract-light-background-wallpaper-orange-modern-abstract.jpg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -748,41 +748,6 @@ header {
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
-
-#newsletter_footer {
-    background-color: var(--newsletter-background-color);
-    color: var(--main-text-color);
-    text-align: center;
-    margin-top: 100px;
-}
-
-    #mc-embedded-subscribe-form {
-        width: 100%;
-        padding: 50px;
-    }
-
-    #mc_embed_signup_scroll_footer {
-        margin-left: 25%;
-        margin-right: 25%;
-        text-align: center;
-        font-size: 22px;
-    }
-
-    #mce-EMAIL_footer {
-        width: 400px;
-        padding: 14px;
-        color: #111;
-        border-color: #111;
-        background: bisque;
-        text-align: center;
-        text-transform: capitalize;
-        border: 1px solid #fff;
-    }
-
-    #mc-embedded-subscribe_footer {
-        margin-top: 30px;
-    }
-
 footer {
     width: 100%;
     height: 70px;
@@ -822,32 +787,6 @@ footer {
                      text-align: center;
                  }
           }
-
-            #mc-embedded-subscribe-form {
-                width: 100%;
-                padding: 50px;
-            }
-
-            #mc_embed_signup_scroll_footer {
-                margin-left: 5%;
-                margin-right: 5%;
-                text-align: center;
-                font-size: 12px;
-            }
-
-            #mce-EMAIL_footer {
-                width: 200px;
-                padding: 14px;
-                color: #111;
-                border-color: #fff;
-                text-align: center;
-                text-transform: capitalize;
-                border: 1px solid #fff;
-            }
-
-            #mc-embedded-subscribe_footer {
-                margin-top: 30px;
-            }
 
             .blog-post {
                 width: 100%;
@@ -901,32 +840,6 @@ footer {
                text-align: center;
            }
     }
-
-      #mc-embedded-subscribe-form {
-          width: 100%;
-          padding: 50px;
-      }
-
-      #mc_embed_signup_scroll_footer {
-          margin-left: 5%;
-          margin-right: 5%;
-          text-align: center;
-          font-size: 12px;
-      }
-
-      #mce-EMAIL_footer {
-          width: 200px;
-          padding: 14px;
-          color: #111;
-          border-color: #fff;
-          text-align: center;
-          text-transform: capitalize;
-          border: 1px solid #fff;
-      }
-
-      #mc-embedded-subscribe_footer {
-          margin-top: 30px;
-      }
 
       .blog-post {
           width: 100%;
@@ -990,52 +903,12 @@ footer {
             padding-right: 0px;
         }
 
-          #mc-embedded-subscribe-form {
-              width: 100%;
-              padding: 50px;
-          }
-
-          #mc_embed_signup_scroll_footer {
-              margin-left: 5%;
-              margin-right: 5%;
-              text-align: center;
-              font-size: 12px;
-          }
-
-          #mce-EMAIL_footer {
-              width: 200px;
-              padding: 14px;
-              color: #111;
-              border-color: #fff;
-              text-align: center;
-              text-transform: capitalize;
-              border: 1px solid #fff;
-          }
-
-          #mc-embedded-subscribe_footer {
-              margin-top: 30px;
-          }
-
           .blog-post {
                 width: 100%;
                 height: auto;
                 margin: 20px !important;
             }
-
-            .product{
-                width: auto;
-                float:left;
-            }
-
  }
-
- /* Github Follow Button */
-.widget-lg .btn, .widget-lg .social-count {
-    height: 35px !important;
-    padding: 10px 30px 1px !important;
-    font-size: 15px !important;
-    line-height: 20px !important;
-}
 
  .switch {
      position: relative;
